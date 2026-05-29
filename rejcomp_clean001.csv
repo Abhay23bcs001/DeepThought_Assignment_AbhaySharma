@@ -1,0 +1,11 @@
+Company Name,Website,City/Location,Segment,Reason for Rejection,E1 Producer,E2 Accessible,C3,C4,C5,C6,C7,C8,Overall Score,Band,Final Verdict
+Suven Pharma,https://www.suven.com,Hyderabad,Complex APIs & Pharma,PE-controlled after Advent acquisition; no longer promoter-driven,PASS,PASS,Strong,Moderate,Strong,Strong,Strong,Weak,58,C,Rejected
+S&D Apparel,https://www.sdapparel.com,Kolkata,Designer Manufacturing,No ERP or systems maturity; founder-led without structured operations,PASS,PASS,Moderate,Weak,Moderate,Moderate,Weak,Moderate,39,D,Rejected
+ABC Chemicals Pvt Ltd,https://www.abcchemicals.in,Ahmedabad,Performance Chemicals,Commodity chemical manufacturer with no differentiation or R&D moat,PASS,PASS,Weak,Weak,Moderate,Weak,Weak,Weak,22,D,Rejected
+XYZ Mediservices,https://www.xyzmediservices.com,Pune,Diagnostics Services,Testing/CRO service provider not a producer company,FAIL,PASS,Weak,Moderate,Moderate,Moderate,Weak,Weak,25,D,Rejected
+Global Trade Links,https://www.globaltradelinks.in,Mumbai,Industrial Equipment,Primarily importer and distributor with no manufacturing facility,FAIL,PASS,Weak,Weak,Moderate,Weak,Weak,Weak,18,D,Rejected
+MegaTex Industries,https://www.megatex.in,Surat,Technical Textiles,Revenue exceeds Rs.500Cr threshold for DT ICP,PASS,PASS,Moderate,Moderate,Strong,Strong,Strong,Moderate,72,B,Rejected
+BioServe Analytics,https://www.bioserveanalytics.com,Bengaluru,Biotech Services,Analytical research service company not product-focused,FAIL,PASS,Moderate,Strong,Strong,Moderate,Moderate,Weak,42,C,Rejected
+Future Agro Imports,https://www.futureagroimports.com,Indore,Agri Inputs,Importer/reseller business without proprietary products,FAIL,PASS,Weak,Weak,Moderate,Weak,Weak,Weak,20,D,Rejected
+Precision Auto Cast,https://www.precisionautocast.in,Coimbatore,Precision Engineering,No visible growth activity in last 2 years,PASS,PASS,Moderate,Moderate,Moderate,Weak,Moderate,Weak,40,C,Rejected
+Urban Nutra Labs,https://www.urbannutralabs.com,Chennai,Nutraceuticals,Recently acquired by larger FMCG group; promoter independence lost,PASS,PASS,Moderate,Moderate,Strong,Strong,Moderate,Weak,55,C,Rejected
