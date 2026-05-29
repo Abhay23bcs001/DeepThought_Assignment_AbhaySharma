@@ -1,8 +1,6 @@
 # DeepThought Business Analytics Internship Assignment
 
-Candidate-Abhay Sharma
-
-Overview-
+# Overview-
 
 This repository contains my submission for the DeepThought Business Analytics Internship assignment. The project focuses on identifying and evaluating “Federer Companies” — growth-oriented, operationally mature, promoter-driven Indian businesses that fit DeepThought’s Ideal Customer Profile (ICP).
 
